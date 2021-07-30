@@ -1,0 +1,6 @@
+*.jar
+.vscode
+*.pdf
+*StudentTest*
+*.xml
+.DS_Store
